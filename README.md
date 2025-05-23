@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Agrawal</h1>
 <h3 align="center">AI/ML Enthusiast | Student at Bennett University</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines= Passionate+about+AI+%26+Machine+Learning; Always+curious+to+learn+new+things" />
-</p>
 ---
 
 ## 🔥 About Me
