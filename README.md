@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Agrawal</h1>
 <h3 align="center">AI/ML Enthusiast | Student at Bennett University</h3>
----
+
 
 ## 🔥 About Me
 - 🎓 I'm currently pursuing my studies at **Bennett University**
