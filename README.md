@@ -38,11 +38,11 @@
 
 ## ✨ Featured Projects
 
-Here are some of the projects I’m most proud of (coming soon!):
+Here are some of the projects I’m most proud of:
 
-- `🧠 ai-powered-chatbot` – A smart chatbot trained on deep learning models
-- `📊 ml-housing-predictor` – Machine Learning model to predict house prices
-- `👁️ face-detection-opencv` – Real-time face detection using OpenCV & Python
+- `🧠 YoloNet` – A Hybrid pipelined model that detects lumpy skin disease in cattle.
+- `📊 Gramalyzer` – Machine Learning model to predict Grammer scores from voice notes.
+- `👁️ Suraksha-Dristhi` – Real-time gesture & face detection using OpenCV, Mediapipe & Python.
 
 ---
 
